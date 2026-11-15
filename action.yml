@@ -1,4 +1,4 @@
-name: whatbroke
+name: What Broke in CI
 description: When CI fails, comment on the PR with only the log lines that weren't in the last passing run.
 author: mintwork
 branding:
